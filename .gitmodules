@@ -1,0 +1,3 @@
+[submodule "deps/VulkanImGui"]
+	path = deps/VulkanImGui
+	url = git@github.com:jacogasp/VulkanImGui.git
